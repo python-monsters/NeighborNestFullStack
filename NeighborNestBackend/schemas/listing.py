@@ -1,0 +1,1 @@
+# Listing schema (Pydantic)

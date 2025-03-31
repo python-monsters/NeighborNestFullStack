@@ -1,0 +1,1 @@
+// Register screen with Firebase and form validation

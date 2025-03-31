@@ -1,0 +1,4 @@
+name: neighbor_nest
+dependencies:
+  flutter:
+    sdk: flutter
